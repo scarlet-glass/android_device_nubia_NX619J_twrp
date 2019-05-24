@@ -1,0 +1,6 @@
+ro.display.series=NX619J
+ro.product.board=sdm845
+ro.board.platform=sdm845
+ro.build.version.release=9
+ro.build.version.security_patch=2025-12-31
+
